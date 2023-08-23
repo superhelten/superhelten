@@ -51,7 +51,56 @@ I'm a tech-enthusiast and a problem solver at heart. With over 5 years in the in
 - **DevOps & Cloud Computing**: `Docker` `AWS` `Azure`
 - **Security & Networking**: `Cybersecurity` `Encryption` `VPN`
 
-<!-- Add More Sections As Needed -->
+## 🏢 Professional Trajectory
+
+### Cybersecurity Analyst
+- Conducted APT analysis, leading to a 15% reduction in security incidents.
+- Spearheaded incident response for high-severity incidents.
+- Conducted penetration tests adhering to industry best practices.
+
+### Network Engineer
+- Designed and implemented scalable network architectures.
+- Deployed IDS/IPS, reducing network attacks by 20%.
+- Analyzed protocols, optimizing network performance by 30%.
+
+### Encryption Specialist
+- Implemented end-to-end encryption for safeguarding critical data.
+- Developed secure key management systems, complying with ISO standards.
+
+---
+
+## 🚀 Personal Endeavors
+
+- **Open-Source Contributions**: Contributed to community projects, including [Project A](#) and [Project B](#).
+- **Speaker**: Delivered talks at [Conference A](#), [Conference B](#).
+
+---
+
+## 💬 Testimonials
+
+> "An innovator in the tech space."  
+> **- Marc Andreessen, Co-founder of Andreessen Horowitz**
+
+> "A future tech leader to look out for."  
+> **- Elon Musk**
+
+---
+
+## 📞 Contact & Social
+
+- 📧 [Email](mailto:superhelten@protonmail.com)
+- 💼 [LinkedIn](https://linkedin.com/in/superhelten)
+- 🌐 [Portfolio](https://superhelten.dev)
+
+---
+
+## ❓ FAQ
+
+- **How can I contact you?**  
+  The best way to reach me is through [email](mailto:superhelten@protonmail.com).
+  
+- **Are you open to collaboration?**  
+  Absolutely, feel free to reach out!
 
 ---
 
