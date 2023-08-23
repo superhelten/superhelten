@@ -36,6 +36,28 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
+### 🛠 Expertise & Technologies
+
+<div align="center">
+
+#### Core Languages
+
+`Java` `C` `C++` `C#` `Go` `JavaScript` `TypeScript`
+
+#### Web Technologies
+
+`HTML5` `CSS3` `React` `Next.js` `PHP` `Laravel`
+
+#### Database Management
+
+`SQL` `MySQL` `MongoDB`
+
+#### DevOps & Cloud Computing
+
+`Docker` `AWS` `Azure` `Jenkins`
+
+</div>
+
 
 
 ---
