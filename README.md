@@ -6,12 +6,14 @@
   <strong>Cybersecurity Enthusiast | Web Developer | Data Magician</strong>
 </div>
 
-<div align="center">
-  
-  [![Twitter](https://img.shields.io/twitter/follow/superhelten.svg?style=social&logo=twitter)](https://twitter.com/superhelten)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=social&logo=linkedin&colorB=555)](https://linkedin.com/in/superhelten)
-  
-</div>
+<p align="center">
+  <a href="https://twitter.com/superhelten">
+    <img src="https://img.shields.io/twitter/follow/superhelten.svg?style=social&logo=twitter" alt="Twitter Follow">
+  </a>
+  <a href="https://linkedin.com/in/superhelten">
+    <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=social&logo=linkedin&colorB=555" alt="LinkedIn">
+  </a>
+</p>
 
 ---
 
