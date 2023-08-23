@@ -8,14 +8,14 @@
 ---
 
 ## 📚 Table of Contents
-- [Professional Synopsis](#professional-synopsis)
-- [Education & Learning Journey](#education--learning-journey)
-- [Expertise & Technical Skills](#expertise--technical-skills)
-- [Professional Trajectory](#professional-trajectory)
-- [Personal Endeavors](#personal-endeavors)
-- [Testimonials](#testimonials)
-- [Contact & Social](#contact--social)
-- [FAQ](#faq)
+- [Professional Synopsis](#-professional-synopsis)
+- [Education & Learning Journey](#-education--learning-journey)
+- [Expertise & Technical Skills](#-expertise--technical-skills)
+- [Professional Trajectory](#-professional-trajectory)
+- [Personal Endeavors](#-personal-endeavors)
+- [Testimonials](#-testimonials)
+- [Contact & Social](#-contact--social)
+- [FAQ](#-faq)
 
 ---
 
