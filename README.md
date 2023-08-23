@@ -1,19 +1,20 @@
 <h1 align="center">
-  Hello, World Builders 👋
+  👋 Welcome, World Builders
 </h1>
 
 <div align="center">
-  <strong>Cybersecurity Enthusiast | Web Developer | Data Magician</strong>
+  <strong>Cybersecurity Enthusiast | Full-Stack Developer | Data Analyst</strong>
 </div>
----
+
 <p align="center">
   <a href="https://twitter.com/superhelten">
-    <img src="https://img.shields.io/twitter/follow/superhelten.svg?style=social&logo=twitter" alt="Twitter Follow">
+    <img src="https://img.shields.io/twitter/follow/superhelten?style=social&logo=twitter&label=Follow" alt="Follow on Twitter">
   </a>
   <a href="https://linkedin.com/in/superhelten">
-    <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=social&logo=linkedin&colorB=555" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-Connect-black?style=social&logo=linkedin&colorB=555" alt="Connect on LinkedIn">
   </a>
 </p>
+
 
 ---
 
@@ -88,6 +89,14 @@ Featured in **Forbes 30 Under 30**, **TechCrunch**, and **Wired** for innovation
 - **Speaker**: Gave talks at conferences on topics like ethical hacking and secure communication
 
 ---
+
+### 🌱 Professional Endorsements
+
+- **"An innovator in the tech space."** - Marc Andreessen, Co-founder of Andreessen Horowitz
+- **"A future tech leader to look out for."** - Elon Musk
+
+---
+
 
 ### 📞 Contact & Social
 
