@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Superhelten, A Passionate Tech Enthusiast 👋</h1>
+<h1 align="center">Hi, I'm Superhelten, A Passionate Technologist & Cybersecurity Enthusiast 👋</h1>
 
 <p align="center">
-  <strong>Architecting scalable solutions & leading technology initiatives</strong>
+  <strong>Driving Innovation & Safeguarding Information</strong>
 </p>
 
 <div align="center">
@@ -13,23 +13,24 @@
 
 ---
 
-### 👩‍🎓 Education & Learning Journey
+### 🎓 Education & Learning Journey
 
 📚 **Self-Taught & Industry Certified**: 
-- Years of hands-on coding, from frontend technologies to DevOps tools
-- Certified in multiple technologies such as AWS, Docker, and Kubernetes
-- Constant learner, staying updated with emerging technologies through academic journals and R&D projects.
+- Comprehensive understanding of coding languages and web technologies
+- Specialized in Cybersecurity, Encryption, and Networking
+- Certified in security-related technologies
+- Lifelong learner, keeping up-to-date with the fast-paced tech world.
 
 ---
 
-### 💡 Expertise & Technical Skills
+### 🛠 Expertise & Technical Skills
 
 <div align="center">
 
-| **Core Languages** | **Web Technologies** | **Database Management** | **DevOps & Cloud Computing** |
-|:---:|:---:|:---:|:---:|
-| `Java` `C` `C++` | `HTML5` `CSS3` `React` | `SQL` `MySQL` `MongoDB` | `Docker` `AWS` `Azure` |
-| `C#` `Go` | `Next.js` `PHP` `Laravel` | `PostgreSQL` `Redis` | `Jenkins` `Kubernetes` `Terraform` |
+| **Core Languages** | **Web & CMS Technologies** | **Database Management** | **DevOps & Cloud Computing** | **Security & Networking** |
+|:---:|:---:|:---:|:---:|:---:|
+| `Java` `C` `C++` | `HTML5` `CSS3` `React` `WordPress` `Sanity` | `SQL` `MySQL` `MongoDB` | `Docker` `AWS` `Azure` | `Cybersecurity` `Encryption` `Networking` |
+| `C#` `Go` | `Next.js` `PHP` `Laravel` | `PostgreSQL` `Redis` | `Jenkins` `Kubernetes` `Terraform` | `Firewalls` `VPN` `Intrusion Detection` |
 
 </div>
 
@@ -47,21 +48,32 @@
 
 ### 🏢 Professional Trajectory
 
-#### Founder & Social Media Strategist
-- **Scaling User Base**: Implemented growth hacks that expanded user engagement by 300%
-- **Monetization Strategies**: Negotiated partnerships that increased revenue by 40%
+#### Cybersecurity Analyst
+- **Threat Intelligence**: Conducted advanced persistent threat (APT) analysis
+- **Incident Response**: Led incident response activities for high-severity incidents
+- **Security Audits**: Conducted internal and external penetration tests
 
-#### Independent Project Developer
-- **Innovative Solutions**: Designed and deployed Machine Learning algorithms to personalize user experiences
-- **Code Quality**: Implemented CI/CD pipelines ensuring 99.9% uptime and top-notch code quality
+#### Network Engineer
+- **Infrastructure Design**: Implemented secure and scalable network architectures
+- **Traffic Analysis**: Deployed IDS/IPS for real-time network monitoring
+- **Protocol Analysis**: Gained insights into network behavior using Wireshark and similar tools
+
+#### Encryption Specialist
+- **Data Protection**: Implemented end-to-end encryption for sensitive data
+- **Key Management**: Developed secure key management systems
+- **Compliance**: Ensured that all cryptographic techniques are compliant with industry standards
+
+#### Founder & Social Media Strategist
+- **User Growth**: Used growth hacking techniques to exponentially increase user engagement
+- **Monetization**: Negotiated strategic partnerships that increased overall revenue
 
 ---
 
 ### 🚀 Personal Endeavors
 
-- **Open-Source Contributions**: Regular contributor to pivotal community projects
-- **Content Creator**: Authored technical blogs and created educational video content
-- **Speaker**: Presented talks and webinars on emerging tech trends and best practices
+- **Open-Source Contributions**: Regular contributor to pivotal community projects in cybersecurity
+- **Content Creator**: Published articles on best practices in cybersecurity and encryption
+- **Speaker**: Gave talks at conferences on topics like ethical hacking and secure communication
 
 ---
 
@@ -70,4 +82,4 @@
 - 📧 **Email**: [superhelten@protonmail.com](mailto:superhelten@protonmail.com)
 - 💼 **LinkedIn**: [linkedin.com/in/superhelten](https://linkedin.com/in/superhelten)
 - 🌐 **Portfolio**: [superhelten.dev](https://superhelten.dev)
-  
+
