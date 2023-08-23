@@ -57,7 +57,7 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&include_all_commits=true" alt="Your GitHub Stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=superhelten&show_icons=true&include_all_commits=true" alt="superhelten's GitHub Stats">
   </a>
 </div>
 
