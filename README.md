@@ -16,21 +16,11 @@ A tech-enthusiast and a problem solver at heart. With over 5 years in the indust
 ### 📊 GitHub Analytics
 
 <div align="center">
-
-### 📊 GitHub Analytics
-
-<div align="center">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=superhelten&show_icons=true&theme=gotham&count_private=true)
 
-#### 👨‍💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=superhelten&theme=gotham)
-
 </div>
   
-</div>
-
 ---
 
 ## 🎓 Education & Learning Journey
