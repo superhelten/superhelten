@@ -13,9 +13,7 @@
 
 ---
 
-## 🛠️ My Skills
-
-### 🛠 Expertise & Technologies
+## 🛠 Expertise & Technologies
 
 <div align="center">
 
