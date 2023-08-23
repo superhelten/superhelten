@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [Superhelten], A Passionate Tech Enthusiast 👋</h1>
+<h1 align="center">Hi, I'm Superhelten, A Passionate Tech Enthusiast 👋</h1>
 
 <p align="center">
   <strong>Architecting scalable solutions & leading technology initiatives</strong>
