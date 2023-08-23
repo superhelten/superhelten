@@ -10,7 +10,7 @@
 
 **Featured in Forbes 30 Under 30, TechCrunch, and Wired**
 
-A tech-enthusiast and a problem solver at heart. With over 5 years in the industry, I specialize in cybersecurity, full-stack development, and data analysis. I've led projects that resulted in 25% increase in operational efficiency and a 40% increase in user engagement.
+A tech-enthusiast and a problem solver at heart. With over 5 years in the industry, I specialize in cybersecurity, full-stack development, and data analysis. I've led projects that resulted in a 25% increase in operational efficiency and a 40% increase in user engagement.
 
 ### 📊 GitHub Analytics
 > [Insert Interactive Chart Here]
@@ -27,8 +27,8 @@ A tech-enthusiast and a problem solver at heart. With over 5 years in the indust
 
 ## 🛠 Expertise & Technical Skills
 
-- **Core Languages**: `Java` `C` `C++`
-- **Web Technologies**: `HTML5` `CSS3` `React`
+- **Core Languages**: `Java` `C` `C++` `Node.js` `PHP`
+- **Web Technologies**: `HTML5` `CSS3` `React` `Next.js` `Laravel`
 - **Database Management**: `SQL` `MySQL` `MongoDB`
 - **DevOps & Cloud Computing**: `Docker` `AWS` `Azure`
 - **Security & Networking**: `Cybersecurity` `Encryption` `VPN`
