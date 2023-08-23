@@ -57,9 +57,10 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=superhelten&show_icons=true&include_all_commits=true" alt="superhelten's GitHub Stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=superhelten&show_icons=true&include_all_commits=true&count_private=true&hide=prs&line_height=24&text_color=000000&icon_color=2f80ed&title_color=2f80ed&bg_color=ffffff" alt="superhelten's GitHub Stats">
   </a>
 </div>
+
 
 ---
 
