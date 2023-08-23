@@ -12,6 +12,35 @@
 
 A tech-enthusiast and a problem solver at heart. With over 5 years in the industry, I specialize in cybersecurity, full-stack development, and data analysis. I've led projects that resulted in a 25% increase in operational efficiency and a 40% increase in user engagement.
 
+
+### 📊 GitHub Analytics
+
+<div align="center">
+
+#### 🏆 GitHub Stats
+
+![Superhelten's GitHub Stats](https://github-readme-stats.vercel.app/api?username=superhelten&show_icons=true&line_height=40&count_private=true&theme=gotham)
+  
+#### 🗂️ Highlighted Repositories
+
+<a href="https://github.com/superhelten/highlight-repo1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=superhelten&repo=highlight-repo1&theme=gotham" />
+</a>
+<a href="https://github.com/superhelten/highlight-repo2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=superhelten&repo=highlight-repo2&theme=gotham" />
+</a>
+
+#### 💡 GitHub Streaks
+
+![Superhelten's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=superhelten&theme=gotham)
+
+#### 👨‍💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=superhelten&theme=gotham)
+
+</div>
+
+
 ### 📊 GitHub Analytics
 
 <div align="center">
