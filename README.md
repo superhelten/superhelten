@@ -8,14 +8,14 @@
 ---
 
 ## 📚 Table of Contents
-- [Professional Synopsis](#🎯-professional-synopsis)
-- [Education & Learning Journey](#🎓-education--learning-journey)
-- [Expertise & Technical Skills](#🛠-expertise--technical-skills)
-- [Professional Trajectory](#🏢-professional-trajectory)
-- [Personal Endeavors](#🚀-personal-endeavors)
-- [Testimonials](#💬-testimonials)
-- [Contact & Social](#📞-contact--social)
-- [FAQ](#❓-faq)
+- [Professional Synopsis](#professional-synopsis)
+- [Education & Learning Journey](#education--learning-journey)
+- [Expertise & Technical Skills](#expertise--technical-skills)
+- [Professional Trajectory](#professional-trajectory)
+- [Personal Endeavors](#personal-endeavors)
+- [Testimonials](#testimonials)
+- [Contact & Social](#contact--social)
+- [FAQ](#faq)
 
 ---
 
@@ -25,6 +25,8 @@
 
 I'm a tech-enthusiast and a problem solver at heart. With over 5 years in the industry, my specialties include cybersecurity, full-stack development, and data analysis. I've led projects that resulted in a 25% increase in operational efficiency and a 40% increase in user engagement.
 
+![Portfolio Screenshot](portfolio-screenshot.png)
+
 ### 📊 GitHub Analytics
 
 <div align="center">
@@ -32,7 +34,7 @@ I'm a tech-enthusiast and a problem solver at heart. With over 5 years in the in
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=superhelten&show_icons=true&theme=gotham&count_private=true)
 
 </div>
-  
+
 ---
 
 ## 🎓 Education & Learning Journey
@@ -40,7 +42,7 @@ I'm a tech-enthusiast and a problem solver at heart. With over 5 years in the in
 - 📚 **Self-Taught & Industry Certified**
   - Expert in Java, C++, Cybersecurity
   - A lifelong learner in the fast-paced tech world
-  
+
 ---
 
 ## 🛠 Expertise & Technical Skills
@@ -50,6 +52,8 @@ I'm a tech-enthusiast and a problem solver at heart. With over 5 years in the in
 - **Database Management**: `SQL` `MySQL` `MongoDB`
 - **DevOps & Cloud Computing**: `Docker` `AWS` `Azure`
 - **Security & Networking**: `Cybersecurity` `Encryption` `VPN`
+
+---
 
 ## 🏢 Professional Trajectory
 
@@ -105,4 +109,3 @@ I'm a tech-enthusiast and a problem solver at heart. With over 5 years in the in
 ---
 
 🔝 [Back to Top](#)
-
