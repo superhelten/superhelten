@@ -157,7 +157,7 @@
 
 Your support helps me dedicate more time to projects that are free and open to the community. It keeps the servers running and the code flowing! Plus, you'll get some cool perks like exclusive content and shoutouts on my social media.
 
-- ☕ [BuyMeACoffee](https://www.buymeacoffee.com/superhelten)
+- ☕ [BuyMeACoffee] <a href="https://www.buymeacoffee.com/superhelten"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 ---
 
