@@ -2,13 +2,10 @@
 
 > "Passionate about solving tomorrow's problems, today."
 
-[![Follow on Twitter](https://img.shields.io/twitter/follow/superhelten?style=social&logo=twitter&label=Follow)](https://twitter.com/superhelten)
-[![Connect on LinkedIn](https://img.shields.io/badge/-Connect-black?style=social&logo=linkedin&colorB=555)](https://linkedin.com/in/superhelten)
-
 ---
 
 ## 📚 Table of Contents
-- [Professional Synopsis](#professional-synopsis)
+- [Professional Synopsis](#🎯-professional-synopsis)
 - [Education & Learning Journey](#education--learning-journey)
 - [Expertise & Technical Skills](#expertise--technical-skills)
 - [Professional Trajectory](#professional-trajectory)
@@ -25,7 +22,6 @@
 
 I'm a tech-enthusiast and a problem solver at heart. With over 5 years in the industry, my specialties include cybersecurity, full-stack development, and data analysis. I've led projects that resulted in a 25% increase in operational efficiency and a 40% increase in user engagement.
 
-![Portfolio Screenshot](portfolio-screenshot.png)
 
 ### 📊 GitHub Analytics
 
