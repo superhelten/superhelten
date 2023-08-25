@@ -74,10 +74,6 @@
 
 <h2 id="🎓-education--learning-journey">🎓 Education & Learning Journey</h2>
 
-### :microscope: Tech && Tools Preference
-
-![skillicons](https://skillicons.dev/icons?i=html,css,js,ts,java,py,c,cpp,kotlin,go,bash,nodejs,mysql,redis,mongodb,sqlite,postgres,vue,react,flask,django,nginx,spring,selenium,git,maven,gradle,docker,linux,github,gitlab,heroku,aws)
-
 - 📚 **Self-Taught & Industry Certified**
   - Expert in Java, C++, Cybersecurity
   - A lifelong learner in the fast-paced tech world
@@ -96,6 +92,11 @@
 - **Database Management**: `SQL` `MySQL` `MongoDB`
 - **DevOps & Cloud Computing**: `Docker` `AWS` `Azure`
 - **Security & Networking**: `Cybersecurity` `Encryption` `VPN`
+
+### :microscope: Tech && Tools Preference
+
+![skillicons](https://skillicons.dev/icons?i=html,css,js,ts,java,py,c,cpp,kotlin,go,bash,nodejs,mysql,redis,mongodb,sqlite,postgres,vue,react,flask,django,nginx,spring,selenium,git,maven,gradle,docker,linux,github,gitlab,heroku,aws)
+
 
 ---
 
