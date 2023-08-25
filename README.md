@@ -97,24 +97,34 @@
 
 <h2 id="🏢-professional-trajectory">🏢 Professional Trajectory</h2>
 
-### Cybersecurity Analyst
-- [x] Conducted APT analysis, leading to a 15% reduction in security incidents.
-- [x] Spearheaded incident response for high-severity incidents.
-- [x] Conducted penetration tests adhering to industry best practices.
+> Journey of a dedicated technologist focused on safeguarding digital assets and optimizing networks.
 
-### Network Engineer
-- [x] Designed and implemented scalable network architectures.
-- [x] Deployed IDS/IPS, reducing network attacks by 20%.
-- [x] Analyzed protocols, optimizing network performance by 30%.
+---
 
-### Encryption Specialist
-- [x] Implemented end-to-end encryption for safeguarding critical data.
-- [x] Developed secure key management systems, complying with ISO standards.
+### Cybersecurity Analyst _(2018-2020)_
+- [x] 🔒 Conducted APT analysis, leading to a **15% reduction** in security incidents. [View Report](#)
+- [x] 🛡 Spearheaded incident response for high-severity incidents. [`#IncidentResponse`](#)
+- [x] 🧪 Conducted penetration tests adhering to industry best practices. [`#PenTest`](#)
 
-### To-Do List
-- [x] Update incident response handbook.
-- [x] Conduct an internal security audit.
-- [x] Complete professional certification in network management.
+---
+
+### Network Engineer _(2020-2022)_
+- [x] 🌐 Designed and implemented scalable network architectures. [See Project](#)
+- [x] 🔑 Deployed IDS/IPS, reducing network attacks by **20%**.
+- [x] 📊 Analyzed protocols, optimizing network performance by **30%**. [`#Wireshark`](#)
+
+---
+
+### Encryption Specialist _(2022-Present)_
+- [x] 🔐 Implemented end-to-end encryption for safeguarding critical data. [Read Case Study](#)
+- [x] 🗝 Developed secure key management systems, complying with ISO standards.
+
+---
+
+### 📋 To-Do List
+- [x] 📖 Update incident response handbook.
+- [x] 🛡 Conduct an internal security audit.
+- [x] 🎓 Complete professional certification in network management. [View Certificate](#)
 
 ---
 
