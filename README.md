@@ -78,16 +78,16 @@
 ### Network Engineer
 - [x] Designed and implemented scalable network architectures.
 - [x] Deployed IDS/IPS, reducing network attacks by 20%.
-- [ ] Analyzed protocols, optimizing network performance by 30%.
+- [x] Analyzed protocols, optimizing network performance by 30%.
 
 ### Encryption Specialist
 - [x] Implemented end-to-end encryption for safeguarding critical data.
-- [ ] Developed secure key management systems, complying with ISO standards.
+- [x] Developed secure key management systems, complying with ISO standards.
 
 ### To-Do List
-- [ ] Update incident response handbook.
-- [ ] Conduct an internal security audit.
-- [ ] Complete professional certification in network management.
+- [x] Update incident response handbook.
+- [x] Conduct an internal security audit.
+- [x] Complete professional certification in network management.
 ---
 
 <h2 id="🚀-personal-endeavors">🚀 Personal Endeavors</h2>
