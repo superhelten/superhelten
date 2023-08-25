@@ -25,11 +25,38 @@
 **Featured in Forbes 30 Under 30, TechCrunch, and Wired**
 
 <details>
-  <summary><b>More About Me</b></summary>
+  <summary><b>🔍 More About Me</b></summary>
   
-  I'm a tech-enthusiast and a problem solver at heart. With over 5 years in the industry, my specialties include cybersecurity, full-stack development, and data analysis. I've led projects that resulted in a 25% increase in operational efficiency and a 40% increase in user engagement.
+  ### Who Am I? 🤔
+  
+  👋 Hello! I'm a **Tech Enthusiast** and **Problem Solver** at heart. 
+
+  ### My Journey 🛤️
+  
+  - 🌐 Over 5 years in the industry
+  - 🏆 **Specialties**: 
+    - Cybersecurity 
+    - Full-stack development 
+    - Data analysis
+  - 📈 Led projects that resulted in a **25% increase in operational efficiency** and a **40% increase in user engagement**.
+  
+  ### More Quick Facts 🎯
+  
+  - 📚 Lifelong Learner 
+  - 🗺️ Passionate about exploring new technologies
+  - 🤝 Open for collaborations
+  
+  ### Media 🎥
+  
+  - 🎤 Speaker at [Conference A](#), [Conference B](#)
+  - 📹 [Watch my introductory video](#)
+
+  ### What's Next? 🤝
+
+  Looking for opportunities to collaborate and innovate! [Connect with me](mailto:your-email@email.com).
   
 </details>
+
 
 <details>
 
