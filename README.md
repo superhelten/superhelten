@@ -1,3 +1,4 @@
+<a id="top-of-page"></a>
 # 👋 Welcome, World Builders
 
 > "Passionate about solving tomorrow's problems, today."
@@ -33,7 +34,7 @@ I'm a tech-enthusiast and a problem solver at heart. With over 5 years in the in
 
 ---
 
-## 🎓 Education & Learning Journey
+<h2 id="🎓-education--learning-journey">🎓 Education & Learning Journey</h2>
 
 - 📚 **Self-Taught & Industry Certified**
   - Expert in Java, C++, Cybersecurity
@@ -41,7 +42,7 @@ I'm a tech-enthusiast and a problem solver at heart. With over 5 years in the in
 
 ---
 
-## 🛠 Expertise & Technical Skills
+<h2 id="🛠-expertise--technical-skills">🛠 Expertise & Technical Skills</h2>
 
 - **Core Languages**: `Java` `C` `C++` `Node.js` `PHP`
 - **Web Technologies**: `HTML5` `CSS3` `React` `Next.js` `Laravel`
@@ -51,7 +52,7 @@ I'm a tech-enthusiast and a problem solver at heart. With over 5 years in the in
 
 ---
 
-## 🏢 Professional Trajectory
+<h2 id="🏢-professional-trajectory">🏢 Professional Trajectory</h2>
 
 ### Cybersecurity Analyst
 - Conducted APT analysis, leading to a 15% reduction in security incidents.
@@ -69,14 +70,14 @@ I'm a tech-enthusiast and a problem solver at heart. With over 5 years in the in
 
 ---
 
-## 🚀 Personal Endeavors
+<h2 id="🚀-personal-endeavors">🚀 Personal Endeavors</h2>
 
 - **Open-Source Contributions**: Contributed to community projects, including [Project A](#) and [Project B](#).
 - **Speaker**: Delivered talks at [Conference A](#), [Conference B](#).
 
 ---
 
-## 💬 Testimonials
+<h2 id="💬-testimonials">💬 Testimonials</h2>
 
 > "An innovator in the tech space."  
 > **- Marc Andreessen, Co-founder of Andreessen Horowitz**
@@ -86,7 +87,7 @@ I'm a tech-enthusiast and a problem solver at heart. With over 5 years in the in
 
 ---
 
-## 📞 Contact & Social
+<h2 id="📞-contact--social">📞 Contact & Social</h2>
 
 - 📧 [Email](mailto:superhelten@protonmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/superhelten)
@@ -94,7 +95,7 @@ I'm a tech-enthusiast and a problem solver at heart. With over 5 years in the in
 
 ---
 
-## ❓ FAQ
+<h2 id="❓-faq">❓ FAQ</h2>
 
 - **How can I contact you?**  
   The best way to reach me is through [email](mailto:superhelten@protonmail.com).
@@ -104,4 +105,4 @@ I'm a tech-enthusiast and a problem solver at heart. With over 5 years in the in
 
 ---
 
-🔝 [Back to Top](#)
+[🔝 Back to Top](#top-of-page)
