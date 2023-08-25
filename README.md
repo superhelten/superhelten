@@ -45,11 +45,6 @@
   - 📚 Lifelong Learner 
   - 🗺️ Passionate about exploring new technologies
   - 🤝 Open for collaborations
-  
-  ### Media 🎥
-  
-  - 🎤 Speaker at [Conference A](#), [Conference B](#)
-  - 📹 [Watch my introductory video](#)
 
   ### What's Next? 🤝
 
