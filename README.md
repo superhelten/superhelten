@@ -73,7 +73,7 @@
 ### Cybersecurity Analyst
 - [x] Conducted APT analysis, leading to a 15% reduction in security incidents.
 - [x] Spearheaded incident response for high-severity incidents.
-- [ ] Conducted penetration tests adhering to industry best practices.
+- [x] Conducted penetration tests adhering to industry best practices.
 
 ### Network Engineer
 - [x] Designed and implemented scalable network architectures.
@@ -88,6 +88,7 @@
 - [x] Update incident response handbook.
 - [x] Conduct an internal security audit.
 - [x] Complete professional certification in network management.
+
 ---
 
 <h2 id="🚀-personal-endeavors">🚀 Personal Endeavors</h2>
