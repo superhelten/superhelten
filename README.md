@@ -16,7 +16,8 @@
 
 ---
 
-## 🎯 Professional Synopsis
+🎯 
+## Professional Synopsis
 
 **Featured in Forbes 30 Under 30, TechCrunch, and Wired**
 
