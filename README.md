@@ -61,6 +61,28 @@
 <h2 id="🛠-expertise--technical-skills">🛠 Expertise & Technical Skills</h2>
 
 - **Core Languages**: `Java` `C` `C++` `Node.js` `PHP`
+- ```javascript
+function helloWorld() {
+  console.log("Hello, world!");
+}
+```
+```python
+def hello_world():
+    print("Hello, world!")
+```
+
+For C++:
+
+```markdown
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Hello, world!" << endl;
+    return 0;
+}
+
 - **Web Technologies**: `HTML5` `CSS3` `React` `Next.js` `Laravel`
 - **Database Management**: `SQL` `MySQL` `MongoDB`
 - **DevOps & Cloud Computing**: `Docker` `AWS` `Azure`
