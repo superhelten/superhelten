@@ -5,7 +5,7 @@
 ---
 
 ## 📚 Table of Contents
-- [Professional Synopsis](🎯-professional-synopsis)
+- [Professional Synopsis](#🎯professional-synopsis)
 - [Education & Learning Journey](#education--learning-journey)
 - [Expertise & Technical Skills](#expertise--technical-skills)
 - [Professional Trajectory](#professional-trajectory)
