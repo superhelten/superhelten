@@ -1,7 +1,11 @@
 <a id="top-of-page"></a>
+
 # 👋 Welcome, World Builders
 
 > "Passionate about solving tomorrow's problems, today."
+
+![GitHub stars](https://img.shields.io/github/stars/superhelten/project)
+![Twitter Follow](https://img.shields.io/twitter/follow/superhelten)
 
 ---
 
@@ -23,14 +27,16 @@
 
 I'm a tech-enthusiast and a problem solver at heart. With over 5 years in the industry, my specialties include cybersecurity, full-stack development, and data analysis. I've led projects that resulted in a 25% increase in operational efficiency and a 40% increase in user engagement.
 
-
-### 📊 GitHub Analytics
+<details>
+<summary>📊 GitHub Analytics</summary>
 
 <div align="center">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=superhelten&show_icons=true&theme=gotham&count_private=true)
 
 </div>
+
+</details>
 
 ---
 
