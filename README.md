@@ -161,11 +161,15 @@
 
 <h2 id="❓-faq">❓ FAQ</h2>
 
-- **How can I contact you?**  
-  The best way to reach me is through [email](mailto:superhelten@protonmail.com).
-  
-- **Are you open to collaboration?**  
-  Absolutely, feel free to reach out!
+<details>
+  <summary><b>How can I contact you?</b></summary>
+  <p>The best way to reach me is through <a href="mailto:superhelten@protonmail.com">email</a>.</p>
+</details>
+
+<details>
+  <summary><b>Are you open to collaboration?</b></summary>
+  <p>Absolutely, feel free to reach out!</p>
+</details>
 
 ---
 
