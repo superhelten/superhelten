@@ -71,19 +71,23 @@
 <h2 id="🏢-professional-trajectory">🏢 Professional Trajectory</h2>
 
 ### Cybersecurity Analyst
-- Conducted APT analysis, leading to a 15% reduction in security incidents.
-- Spearheaded incident response for high-severity incidents.
-- Conducted penetration tests adhering to industry best practices.
+- [x] Conducted APT analysis, leading to a 15% reduction in security incidents.
+- [x] Spearheaded incident response for high-severity incidents.
+- [ ] Conducted penetration tests adhering to industry best practices.
 
 ### Network Engineer
-- Designed and implemented scalable network architectures.
-- Deployed IDS/IPS, reducing network attacks by 20%.
-- Analyzed protocols, optimizing network performance by 30%.
+- [x] Designed and implemented scalable network architectures.
+- [x] Deployed IDS/IPS, reducing network attacks by 20%.
+- [ ] Analyzed protocols, optimizing network performance by 30%.
 
 ### Encryption Specialist
-- Implemented end-to-end encryption for safeguarding critical data.
-- Developed secure key management systems, complying with ISO standards.
+- [x] Implemented end-to-end encryption for safeguarding critical data.
+- [ ] Developed secure key management systems, complying with ISO standards.
 
+### To-Do List
+- [ ] Update incident response handbook.
+- [ ] Conduct an internal security audit.
+- [ ] Complete professional certification in network management.
 ---
 
 <h2 id="🚀-personal-endeavors">🚀 Personal Endeavors</h2>
