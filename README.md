@@ -33,6 +33,8 @@
 
 <summary>📊 GitHub Analytics</summary>
 
+<details>
+  
 <div align="center">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=superhelten&show_icons=true&theme=gotham&count_private=true)
@@ -48,6 +50,11 @@
 - 📚 **Self-Taught & Industry Certified**
   - Expert in Java, C++, Cybersecurity
   - A lifelong learner in the fast-paced tech world
+
+| Year | Degree | Institution |
+|------|--------|------------|
+| 2020 | BS in Computer Science | MIT |
+| 2022 | MS in Cybersecurity | Stanford University |
 
 ---
 
