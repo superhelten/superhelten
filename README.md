@@ -95,8 +95,7 @@
 
 ### :microscope: Tech && Tools Preference
 
-![skillicons](https://skillicons.dev/icons?i=html,css,js,ts,java,py,c,cpp,kotlin,go,bash,nodejs,mysql,redis,mongodb,sqlite,postgres,vue,react,flask,django,nginx,spring,selenium,git,maven,gradle,docker,linux,github,gitlab,heroku,aws)
-
+![skillicons](https://skillicons.dev/icons?i=html,css,js,ts,java,py,c,cpp,kotlin,go,php,laravel,bash,nodejs,mysql,redis,mongodb,sqlite,postgres,vue,react,nextjs,wordpress,flask,django,nginx,spring,git,docker,linux,github,gitlab,heroku,aws,azure)
 
 ---
 
@@ -172,6 +171,11 @@
   
 - **Are you open to collaboration?**  
   Absolutely, feel free to reach out!
+
+---
+
+### 🛳 &nbsp;Your ticket ID for this visit
+<img src="https://profile-counter.glitch.me/DateBro/count.svg" />
 
 ---
 
