@@ -4,7 +4,6 @@
 
 > "Passionate about solving tomorrow's problems, today."
 
-![GitHub stars](https://img.shields.io/github/stars/superhelten/project)
 ![Twitter Follow](https://img.shields.io/twitter/follow/superhelten)
 
 ---
@@ -25,9 +24,13 @@
 
 **Featured in Forbes 30 Under 30, TechCrunch, and Wired**
 
-I'm a tech-enthusiast and a problem solver at heart. With over 5 years in the industry, my specialties include cybersecurity, full-stack development, and data analysis. I've led projects that resulted in a 25% increase in operational efficiency and a 40% increase in user engagement.
-
 <details>
+  <summary><b>More About Me</b></summary>
+  
+  I'm a tech-enthusiast and a problem solver at heart. With over 5 years in the industry, my specialties include cybersecurity, full-stack development, and data analysis. I've led projects that resulted in a 25% increase in operational efficiency and a 40% increase in user engagement.
+  
+</details>
+
 <summary>📊 GitHub Analytics</summary>
 
 <div align="center">
