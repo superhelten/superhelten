@@ -31,9 +31,9 @@
   
 </details>
 
-<summary>📊 GitHub Analytics</summary>
-
 <details>
+
+<summary>📊 GitHub Analytics</summary>
   
 <div align="center">
   
