@@ -5,19 +5,18 @@
 ---
 
 ## 📚 Table of Contents
-- [Professional Synopsis](#professional-synopsis)
-- [Education & Learning Journey](#education--learning-journey)
-- [Expertise & Technical Skills](#expertise--technical-skills)
-- [Professional Trajectory](#professional-trajectory)
-- [Personal Endeavors](#personal-endeavors)
-- [Testimonials](#testimonials)
-- [Contact & Social](#contact--social)
-- [FAQ](#faq)
+- [🎯 Professional Synopsis](#🎯-professional-synopsis)
+- [🎓 Education & Learning Journey](#🎓-education--learning-journey)
+- [🛠 Expertise & Technical Skills](#🛠-expertise--technical-skills)
+- [🏢 Professional Trajectory](#🏢-professional-trajectory)
+- [🚀 Personal Endeavors](#🚀-personal-endeavors)
+- [💬 Testimonials](#💬-testimonials)
+- [📞 Contact & Social](#📞-contact--social)
+- [❓ FAQ](#❓-faq)
 
 ---
 
-🎯 
-## Professional Synopsis
+<h2 id="🎯-professional-synopsis">🎯 Professional Synopsis</h2>
 
 **Featured in Forbes 30 Under 30, TechCrunch, and Wired**
 
