@@ -2,8 +2,7 @@
   <img src="assets/banner.svg" width="100%" alt="Superhelten: small Windows utilities that stay out of the way">
 </p>
 
-Small Windows utilities that do one job and stay out of the way.
-Each one is a single download, with no account to create.
+Each one does one job, is a single download and needs no account. All of them run on Windows 10 and 11.
 
 <table>
   <tr>
@@ -52,8 +51,6 @@ Each one is a single download, with no account to create.
     </td>
   </tr>
 </table>
-
-All of them run on Windows 10 and 11.
 
 ## Good to know
 
